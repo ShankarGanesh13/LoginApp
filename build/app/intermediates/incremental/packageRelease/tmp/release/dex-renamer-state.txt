@@ -1,0 +1,4 @@
+#Sat Apr 01 15:20:25 IST 2023
+base.0=/Users/shankarganesh/Projects/login_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
